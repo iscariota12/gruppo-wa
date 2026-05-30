@@ -1,0 +1,20 @@
+# Dipendenze
+node_modules/
+report/node_modules/
+
+# Build locale
+report/dist/
+
+# Export PDF locale
+report/report-caco.pdf
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.log
+.vite/
+
+# Python
+__pycache__/
+*.pyc
+.venv/

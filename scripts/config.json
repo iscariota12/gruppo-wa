@@ -1,0 +1,26 @@
+{
+  "nameMapping": {
+    "Martina  🎀": "martina",
+    "Martina 🎀": "martina",
+    "Peppino": "peppino",
+    "Chiara Venezia": "chiara",
+    "David": "david",
+    "Simone": "simone",
+    "Elena": "elena",
+    "Michela": "michela",
+    "Mariacristina": "mariacristina"
+  },
+  "members": {
+    "martina": { "displayName": "Martina", "color": "#E91E63", "initials": "MA" },
+    "peppino": { "displayName": "Peppino", "color": "#FF5722", "initials": "PE" },
+    "chiara": { "displayName": "Chiara Venezia", "color": "#9C27B0", "initials": "CV" },
+    "david": { "displayName": "David", "color": "#2196F3", "initials": "DA" },
+    "simone": { "displayName": "Simone", "color": "#4CAF50", "initials": "SI" },
+    "elena": { "displayName": "Elena", "color": "#00BCD4", "initials": "EL" },
+    "michela": { "displayName": "Michela", "color": "#FF9800", "initials": "MI" },
+    "mariacristina": { "displayName": "Mariacristina", "color": "#795548", "initials": "MC" }
+  },
+  "chatFile": "Chat WhatsApp con 💩 gruppo.txt",
+  "outputFile": "report/public/data/report.json",
+  "midpointDate": "2026-05-15"
+}

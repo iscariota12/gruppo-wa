@@ -1,0 +1,9 @@
+{
+  "name": "caco",
+  "private": true,
+  "scripts": {
+    "parse": "python scripts/parse_chat.py",
+    "dev": "npm run parse && npm run dev --prefix report",
+    "build": "npm run parse && npm run build --prefix report"
+  }
+}

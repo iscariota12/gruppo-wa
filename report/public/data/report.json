@@ -1,0 +1,3001 @@
+{
+  "meta": {
+    "periodStart": "2026-05-01",
+    "periodEnd": "2026-05-30",
+    "totalVisits": 267,
+    "totalDays": 30,
+    "dailyAverage": 8.9,
+    "generatedAt": "2026-05-30T13:07:05.426473"
+  },
+  "members": [
+    {
+      "id": "martina",
+      "displayName": "Martina",
+      "color": "#E91E63",
+      "initials": "MA",
+      "total": 53
+    },
+    {
+      "id": "peppino",
+      "displayName": "Peppino",
+      "color": "#FF5722",
+      "initials": "PE",
+      "total": 42
+    },
+    {
+      "id": "elena",
+      "displayName": "Elena",
+      "color": "#00BCD4",
+      "initials": "EL",
+      "total": 34
+    },
+    {
+      "id": "david",
+      "displayName": "David",
+      "color": "#2196F3",
+      "initials": "DA",
+      "total": 32
+    },
+    {
+      "id": "chiara",
+      "displayName": "Chiara Venezia",
+      "color": "#9C27B0",
+      "initials": "CV",
+      "total": 30
+    },
+    {
+      "id": "simone",
+      "displayName": "Simone",
+      "color": "#4CAF50",
+      "initials": "SI",
+      "total": 28
+    },
+    {
+      "id": "michela",
+      "displayName": "Michela",
+      "color": "#FF9800",
+      "initials": "MI",
+      "total": 25
+    },
+    {
+      "id": "mariacristina",
+      "displayName": "Mariacristina",
+      "color": "#795548",
+      "initials": "MC",
+      "total": 23
+    }
+  ],
+  "ranking": [
+    {
+      "rank": 1,
+      "memberId": "martina",
+      "total": 53,
+      "percentage": 19.9
+    },
+    {
+      "rank": 2,
+      "memberId": "peppino",
+      "total": 42,
+      "percentage": 15.7
+    },
+    {
+      "rank": 3,
+      "memberId": "elena",
+      "total": 34,
+      "percentage": 12.7
+    },
+    {
+      "rank": 4,
+      "memberId": "david",
+      "total": 32,
+      "percentage": 12.0
+    },
+    {
+      "rank": 5,
+      "memberId": "chiara",
+      "total": 30,
+      "percentage": 11.2
+    },
+    {
+      "rank": 6,
+      "memberId": "simone",
+      "total": 28,
+      "percentage": 10.5
+    },
+    {
+      "rank": 7,
+      "memberId": "michela",
+      "total": 25,
+      "percentage": 9.4
+    },
+    {
+      "rank": 8,
+      "memberId": "mariacristina",
+      "total": 23,
+      "percentage": 8.6
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-05-01",
+      "memberId": "chiara",
+      "cumulative": 1
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "chiara",
+      "cumulative": 2
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "chiara",
+      "cumulative": 4
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "chiara",
+      "cumulative": 5
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "chiara",
+      "cumulative": 6
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "chiara",
+      "cumulative": 9
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "chiara",
+      "cumulative": 10
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "chiara",
+      "cumulative": 12
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "chiara",
+      "cumulative": 13
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "chiara",
+      "cumulative": 13
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "chiara",
+      "cumulative": 14
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "chiara",
+      "cumulative": 14
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "chiara",
+      "cumulative": 15
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "chiara",
+      "cumulative": 16
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "chiara",
+      "cumulative": 16
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "chiara",
+      "cumulative": 17
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "chiara",
+      "cumulative": 17
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "chiara",
+      "cumulative": 18
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "chiara",
+      "cumulative": 20
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "chiara",
+      "cumulative": 21
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "chiara",
+      "cumulative": 22
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "chiara",
+      "cumulative": 23
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "chiara",
+      "cumulative": 24
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "chiara",
+      "cumulative": 25
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "chiara",
+      "cumulative": 25
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "chiara",
+      "cumulative": 27
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "chiara",
+      "cumulative": 29
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "chiara",
+      "cumulative": 30
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "chiara",
+      "cumulative": 30
+    },
+    {
+      "date": "2026-05-30",
+      "memberId": "chiara",
+      "cumulative": 30
+    },
+    {
+      "date": "2026-05-01",
+      "memberId": "david",
+      "cumulative": 1
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "david",
+      "cumulative": 2
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "david",
+      "cumulative": 4
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "david",
+      "cumulative": 6
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "david",
+      "cumulative": 8
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "david",
+      "cumulative": 9
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "david",
+      "cumulative": 11
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "david",
+      "cumulative": 12
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "david",
+      "cumulative": 12
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "david",
+      "cumulative": 13
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "david",
+      "cumulative": 15
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "david",
+      "cumulative": 16
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "david",
+      "cumulative": 18
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "david",
+      "cumulative": 19
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "david",
+      "cumulative": 20
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "david",
+      "cumulative": 21
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "david",
+      "cumulative": 21
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "david",
+      "cumulative": 23
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "david",
+      "cumulative": 23
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "david",
+      "cumulative": 24
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "david",
+      "cumulative": 24
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "david",
+      "cumulative": 26
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "david",
+      "cumulative": 26
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "david",
+      "cumulative": 27
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "david",
+      "cumulative": 28
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "david",
+      "cumulative": 29
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "david",
+      "cumulative": 29
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "david",
+      "cumulative": 31
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "david",
+      "cumulative": 32
+    },
+    {
+      "date": "2026-05-30",
+      "memberId": "david",
+      "cumulative": 32
+    },
+    {
+      "date": "2026-05-01",
+      "memberId": "elena",
+      "cumulative": 0
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "elena",
+      "cumulative": 2
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "elena",
+      "cumulative": 2
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "elena",
+      "cumulative": 3
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "elena",
+      "cumulative": 4
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "elena",
+      "cumulative": 5
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "elena",
+      "cumulative": 6
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "elena",
+      "cumulative": 8
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "elena",
+      "cumulative": 8
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "elena",
+      "cumulative": 10
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "elena",
+      "cumulative": 11
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "elena",
+      "cumulative": 14
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "elena",
+      "cumulative": 14
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "elena",
+      "cumulative": 18
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "elena",
+      "cumulative": 19
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "elena",
+      "cumulative": 19
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "elena",
+      "cumulative": 20
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "elena",
+      "cumulative": 20
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "elena",
+      "cumulative": 21
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "elena",
+      "cumulative": 21
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "elena",
+      "cumulative": 23
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "elena",
+      "cumulative": 24
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "elena",
+      "cumulative": 26
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "elena",
+      "cumulative": 27
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "elena",
+      "cumulative": 29
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "elena",
+      "cumulative": 30
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "elena",
+      "cumulative": 31
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "elena",
+      "cumulative": 31
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "elena",
+      "cumulative": 34
+    },
+    {
+      "date": "2026-05-30",
+      "memberId": "elena",
+      "cumulative": 34
+    },
+    {
+      "date": "2026-05-01",
+      "memberId": "mariacristina",
+      "cumulative": 1
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "mariacristina",
+      "cumulative": 1
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "mariacristina",
+      "cumulative": 3
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "mariacristina",
+      "cumulative": 4
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "mariacristina",
+      "cumulative": 5
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "mariacristina",
+      "cumulative": 5
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "mariacristina",
+      "cumulative": 6
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "mariacristina",
+      "cumulative": 6
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "mariacristina",
+      "cumulative": 6
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "mariacristina",
+      "cumulative": 9
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "mariacristina",
+      "cumulative": 9
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "mariacristina",
+      "cumulative": 11
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "mariacristina",
+      "cumulative": 11
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "mariacristina",
+      "cumulative": 13
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "mariacristina",
+      "cumulative": 13
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "mariacristina",
+      "cumulative": 14
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "mariacristina",
+      "cumulative": 14
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "mariacristina",
+      "cumulative": 14
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "mariacristina",
+      "cumulative": 15
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "mariacristina",
+      "cumulative": 16
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "mariacristina",
+      "cumulative": 17
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "mariacristina",
+      "cumulative": 17
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "mariacristina",
+      "cumulative": 18
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "mariacristina",
+      "cumulative": 18
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "mariacristina",
+      "cumulative": 19
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "mariacristina",
+      "cumulative": 22
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "mariacristina",
+      "cumulative": 22
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "mariacristina",
+      "cumulative": 22
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "mariacristina",
+      "cumulative": 23
+    },
+    {
+      "date": "2026-05-30",
+      "memberId": "mariacristina",
+      "cumulative": 23
+    },
+    {
+      "date": "2026-05-01",
+      "memberId": "martina",
+      "cumulative": 0
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "martina",
+      "cumulative": 0
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "martina",
+      "cumulative": 2
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "martina",
+      "cumulative": 3
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "martina",
+      "cumulative": 7
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "martina",
+      "cumulative": 10
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "martina",
+      "cumulative": 11
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "martina",
+      "cumulative": 12
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "martina",
+      "cumulative": 14
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "martina",
+      "cumulative": 17
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "martina",
+      "cumulative": 20
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "martina",
+      "cumulative": 22
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "martina",
+      "cumulative": 24
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "martina",
+      "cumulative": 24
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "martina",
+      "cumulative": 24
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "martina",
+      "cumulative": 26
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "martina",
+      "cumulative": 28
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "martina",
+      "cumulative": 31
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "martina",
+      "cumulative": 31
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "martina",
+      "cumulative": 33
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "martina",
+      "cumulative": 36
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "martina",
+      "cumulative": 37
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "martina",
+      "cumulative": 40
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "martina",
+      "cumulative": 41
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "martina",
+      "cumulative": 44
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "martina",
+      "cumulative": 45
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "martina",
+      "cumulative": 47
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "martina",
+      "cumulative": 49
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "martina",
+      "cumulative": 50
+    },
+    {
+      "date": "2026-05-30",
+      "memberId": "martina",
+      "cumulative": 53
+    },
+    {
+      "date": "2026-05-01",
+      "memberId": "michela",
+      "cumulative": 0
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "michela",
+      "cumulative": 1
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "michela",
+      "cumulative": 2
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "michela",
+      "cumulative": 2
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "michela",
+      "cumulative": 2
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "michela",
+      "cumulative": 3
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "michela",
+      "cumulative": 5
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "michela",
+      "cumulative": 6
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "michela",
+      "cumulative": 7
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "michela",
+      "cumulative": 9
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "michela",
+      "cumulative": 10
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "michela",
+      "cumulative": 12
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "michela",
+      "cumulative": 13
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "michela",
+      "cumulative": 13
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "michela",
+      "cumulative": 14
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "michela",
+      "cumulative": 14
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "michela",
+      "cumulative": 14
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "michela",
+      "cumulative": 16
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "michela",
+      "cumulative": 16
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "michela",
+      "cumulative": 16
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "michela",
+      "cumulative": 17
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "michela",
+      "cumulative": 18
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "michela",
+      "cumulative": 19
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "michela",
+      "cumulative": 20
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "michela",
+      "cumulative": 21
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "michela",
+      "cumulative": 22
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "michela",
+      "cumulative": 22
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "michela",
+      "cumulative": 23
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "michela",
+      "cumulative": 25
+    },
+    {
+      "date": "2026-05-30",
+      "memberId": "michela",
+      "cumulative": 25
+    },
+    {
+      "date": "2026-05-01",
+      "memberId": "peppino",
+      "cumulative": 1
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "peppino",
+      "cumulative": 2
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "peppino",
+      "cumulative": 4
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "peppino",
+      "cumulative": 6
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "peppino",
+      "cumulative": 8
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "peppino",
+      "cumulative": 10
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "peppino",
+      "cumulative": 12
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "peppino",
+      "cumulative": 14
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "peppino",
+      "cumulative": 16
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "peppino",
+      "cumulative": 17
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "peppino",
+      "cumulative": 18
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "peppino",
+      "cumulative": 21
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "peppino",
+      "cumulative": 24
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "peppino",
+      "cumulative": 26
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "peppino",
+      "cumulative": 26
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "peppino",
+      "cumulative": 27
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "peppino",
+      "cumulative": 28
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "peppino",
+      "cumulative": 30
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "peppino",
+      "cumulative": 31
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "peppino",
+      "cumulative": 32
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "peppino",
+      "cumulative": 33
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "peppino",
+      "cumulative": 34
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "peppino",
+      "cumulative": 35
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "peppino",
+      "cumulative": 36
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "peppino",
+      "cumulative": 38
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "peppino",
+      "cumulative": 40
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "peppino",
+      "cumulative": 41
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "peppino",
+      "cumulative": 41
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "peppino",
+      "cumulative": 42
+    },
+    {
+      "date": "2026-05-30",
+      "memberId": "peppino",
+      "cumulative": 42
+    },
+    {
+      "date": "2026-05-01",
+      "memberId": "simone",
+      "cumulative": 1
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "simone",
+      "cumulative": 2
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "simone",
+      "cumulative": 3
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "simone",
+      "cumulative": 4
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "simone",
+      "cumulative": 6
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "simone",
+      "cumulative": 7
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "simone",
+      "cumulative": 8
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "simone",
+      "cumulative": 10
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "simone",
+      "cumulative": 11
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "simone",
+      "cumulative": 12
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "simone",
+      "cumulative": 13
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "simone",
+      "cumulative": 14
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "simone",
+      "cumulative": 15
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "simone",
+      "cumulative": 16
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "simone",
+      "cumulative": 17
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "simone",
+      "cumulative": 18
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "simone",
+      "cumulative": 19
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "simone",
+      "cumulative": 20
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "simone",
+      "cumulative": 22
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "simone",
+      "cumulative": 23
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "simone",
+      "cumulative": 23
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "simone",
+      "cumulative": 23
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "simone",
+      "cumulative": 24
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "simone",
+      "cumulative": 25
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "simone",
+      "cumulative": 26
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "simone",
+      "cumulative": 26
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "simone",
+      "cumulative": 27
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "simone",
+      "cumulative": 27
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "simone",
+      "cumulative": 28
+    },
+    {
+      "date": "2026-05-30",
+      "memberId": "simone",
+      "cumulative": 28
+    }
+  ],
+  "dailyCounts": [
+    {
+      "date": "2026-05-01",
+      "memberId": "mariacristina",
+      "count": 1
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "mariacristina",
+      "count": 2
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "mariacristina",
+      "count": 1
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "mariacristina",
+      "count": 1
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "mariacristina",
+      "count": 1
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "mariacristina",
+      "count": 3
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "mariacristina",
+      "count": 2
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "mariacristina",
+      "count": 2
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "mariacristina",
+      "count": 1
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "mariacristina",
+      "count": 1
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "mariacristina",
+      "count": 1
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "mariacristina",
+      "count": 1
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "mariacristina",
+      "count": 1
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "mariacristina",
+      "count": 1
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "mariacristina",
+      "count": 3
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "mariacristina",
+      "count": 1
+    },
+    {
+      "date": "2026-05-01",
+      "memberId": "peppino",
+      "count": 1
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "peppino",
+      "count": 1
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "peppino",
+      "count": 2
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "peppino",
+      "count": 2
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "peppino",
+      "count": 2
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "peppino",
+      "count": 2
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "peppino",
+      "count": 2
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "peppino",
+      "count": 2
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "peppino",
+      "count": 2
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "peppino",
+      "count": 1
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "peppino",
+      "count": 1
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "peppino",
+      "count": 3
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "peppino",
+      "count": 3
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "peppino",
+      "count": 2
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "peppino",
+      "count": 1
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "peppino",
+      "count": 1
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "peppino",
+      "count": 2
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "peppino",
+      "count": 1
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "peppino",
+      "count": 1
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "peppino",
+      "count": 1
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "peppino",
+      "count": 1
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "peppino",
+      "count": 1
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "peppino",
+      "count": 1
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "peppino",
+      "count": 2
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "peppino",
+      "count": 2
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "peppino",
+      "count": 1
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "peppino",
+      "count": 1
+    },
+    {
+      "date": "2026-05-01",
+      "memberId": "chiara",
+      "count": 1
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "chiara",
+      "count": 1
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "chiara",
+      "count": 2
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "chiara",
+      "count": 1
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "chiara",
+      "count": 1
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "chiara",
+      "count": 3
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "chiara",
+      "count": 1
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "chiara",
+      "count": 2
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "chiara",
+      "count": 1
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "chiara",
+      "count": 1
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "chiara",
+      "count": 1
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "chiara",
+      "count": 1
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "chiara",
+      "count": 1
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "chiara",
+      "count": 1
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "chiara",
+      "count": 2
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "chiara",
+      "count": 1
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "chiara",
+      "count": 1
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "chiara",
+      "count": 1
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "chiara",
+      "count": 1
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "chiara",
+      "count": 1
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "chiara",
+      "count": 2
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "chiara",
+      "count": 2
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "chiara",
+      "count": 1
+    },
+    {
+      "date": "2026-05-01",
+      "memberId": "david",
+      "count": 1
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "david",
+      "count": 1
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "david",
+      "count": 2
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "david",
+      "count": 2
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "david",
+      "count": 2
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "david",
+      "count": 1
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "david",
+      "count": 2
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "david",
+      "count": 1
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "david",
+      "count": 1
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "david",
+      "count": 2
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "david",
+      "count": 1
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "david",
+      "count": 2
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "david",
+      "count": 1
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "david",
+      "count": 1
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "david",
+      "count": 1
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "david",
+      "count": 2
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "david",
+      "count": 1
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "david",
+      "count": 2
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "david",
+      "count": 1
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "david",
+      "count": 1
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "david",
+      "count": 1
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "david",
+      "count": 2
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "david",
+      "count": 1
+    },
+    {
+      "date": "2026-05-01",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "simone",
+      "count": 2
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "simone",
+      "count": 2
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "simone",
+      "count": 2
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "simone",
+      "count": 1
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "elena",
+      "count": 2
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "elena",
+      "count": 1
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "elena",
+      "count": 1
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "elena",
+      "count": 1
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "elena",
+      "count": 1
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "elena",
+      "count": 2
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "elena",
+      "count": 2
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "elena",
+      "count": 1
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "elena",
+      "count": 3
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "elena",
+      "count": 4
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "elena",
+      "count": 1
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "elena",
+      "count": 1
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "elena",
+      "count": 1
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "elena",
+      "count": 2
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "elena",
+      "count": 1
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "elena",
+      "count": 2
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "elena",
+      "count": 1
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "elena",
+      "count": 2
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "elena",
+      "count": 1
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "elena",
+      "count": 1
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "elena",
+      "count": 3
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "michela",
+      "count": 1
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "michela",
+      "count": 1
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "michela",
+      "count": 1
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "michela",
+      "count": 2
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "michela",
+      "count": 1
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "michela",
+      "count": 1
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "michela",
+      "count": 2
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "michela",
+      "count": 1
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "michela",
+      "count": 2
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "michela",
+      "count": 1
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "michela",
+      "count": 1
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "michela",
+      "count": 2
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "michela",
+      "count": 1
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "michela",
+      "count": 1
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "michela",
+      "count": 1
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "michela",
+      "count": 1
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "michela",
+      "count": 1
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "michela",
+      "count": 1
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "michela",
+      "count": 1
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "michela",
+      "count": 2
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "martina",
+      "count": 2
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "martina",
+      "count": 1
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "martina",
+      "count": 4
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "martina",
+      "count": 3
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "martina",
+      "count": 1
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "martina",
+      "count": 1
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "martina",
+      "count": 2
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "martina",
+      "count": 3
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "martina",
+      "count": 3
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "martina",
+      "count": 2
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "martina",
+      "count": 2
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "martina",
+      "count": 2
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "martina",
+      "count": 2
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "martina",
+      "count": 3
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "martina",
+      "count": 2
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "martina",
+      "count": 3
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "martina",
+      "count": 1
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "martina",
+      "count": 3
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "martina",
+      "count": 1
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "martina",
+      "count": 3
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "martina",
+      "count": 1
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "martina",
+      "count": 2
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "martina",
+      "count": 2
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "martina",
+      "count": 1
+    },
+    {
+      "date": "2026-05-30",
+      "memberId": "martina",
+      "count": 3
+    }
+  ],
+  "highlights": {
+    "singleDayRecord": {
+      "memberId": "elena",
+      "date": "2026-05-14",
+      "count": 4
+    },
+    "longestVisitStreak": {
+      "memberId": "simone",
+      "days": 20,
+      "from": "2026-05-01",
+      "to": "2026-05-20"
+    },
+    "longestDryStreak": {
+      "memberId": "mariacristina",
+      "days": 2,
+      "from": "2026-05-08",
+      "to": "2026-05-09"
+    },
+    "bestComeback": {
+      "memberId": "martina",
+      "rankAtMidpoint": 2,
+      "finalRank": 1,
+      "positionsGained": 1,
+      "overtakeStory": {
+        "keyOvertakes": [
+          {
+            "date": "2026-05-06",
+            "passerId": "martina",
+            "passedId": "david",
+            "passerTotal": 10,
+            "passedTotal": 9
+          },
+          {
+            "date": "2026-05-11",
+            "passerId": "martina",
+            "passedId": "peppino",
+            "passerTotal": 20,
+            "passedTotal": 18
+          },
+          {
+            "date": "2026-05-18",
+            "passerId": "martina",
+            "passedId": "peppino",
+            "passerTotal": 31,
+            "passedTotal": 30
+          }
+        ],
+        "chart": {
+          "from": "2026-05-03",
+          "to": "2026-05-21",
+          "memberIds": [
+            "david",
+            "martina",
+            "peppino"
+          ],
+          "points": [
+            {
+              "date": "2026-05-03",
+              "memberId": "david",
+              "cumulative": 4
+            },
+            {
+              "date": "2026-05-04",
+              "memberId": "david",
+              "cumulative": 6
+            },
+            {
+              "date": "2026-05-05",
+              "memberId": "david",
+              "cumulative": 8
+            },
+            {
+              "date": "2026-05-06",
+              "memberId": "david",
+              "cumulative": 9
+            },
+            {
+              "date": "2026-05-07",
+              "memberId": "david",
+              "cumulative": 11
+            },
+            {
+              "date": "2026-05-08",
+              "memberId": "david",
+              "cumulative": 12
+            },
+            {
+              "date": "2026-05-09",
+              "memberId": "david",
+              "cumulative": 12
+            },
+            {
+              "date": "2026-05-10",
+              "memberId": "david",
+              "cumulative": 13
+            },
+            {
+              "date": "2026-05-11",
+              "memberId": "david",
+              "cumulative": 15
+            },
+            {
+              "date": "2026-05-12",
+              "memberId": "david",
+              "cumulative": 16
+            },
+            {
+              "date": "2026-05-13",
+              "memberId": "david",
+              "cumulative": 18
+            },
+            {
+              "date": "2026-05-14",
+              "memberId": "david",
+              "cumulative": 19
+            },
+            {
+              "date": "2026-05-15",
+              "memberId": "david",
+              "cumulative": 20
+            },
+            {
+              "date": "2026-05-16",
+              "memberId": "david",
+              "cumulative": 21
+            },
+            {
+              "date": "2026-05-17",
+              "memberId": "david",
+              "cumulative": 21
+            },
+            {
+              "date": "2026-05-18",
+              "memberId": "david",
+              "cumulative": 23
+            },
+            {
+              "date": "2026-05-19",
+              "memberId": "david",
+              "cumulative": 23
+            },
+            {
+              "date": "2026-05-20",
+              "memberId": "david",
+              "cumulative": 24
+            },
+            {
+              "date": "2026-05-21",
+              "memberId": "david",
+              "cumulative": 24
+            },
+            {
+              "date": "2026-05-03",
+              "memberId": "martina",
+              "cumulative": 2
+            },
+            {
+              "date": "2026-05-04",
+              "memberId": "martina",
+              "cumulative": 3
+            },
+            {
+              "date": "2026-05-05",
+              "memberId": "martina",
+              "cumulative": 7
+            },
+            {
+              "date": "2026-05-06",
+              "memberId": "martina",
+              "cumulative": 10
+            },
+            {
+              "date": "2026-05-07",
+              "memberId": "martina",
+              "cumulative": 11
+            },
+            {
+              "date": "2026-05-08",
+              "memberId": "martina",
+              "cumulative": 12
+            },
+            {
+              "date": "2026-05-09",
+              "memberId": "martina",
+              "cumulative": 14
+            },
+            {
+              "date": "2026-05-10",
+              "memberId": "martina",
+              "cumulative": 17
+            },
+            {
+              "date": "2026-05-11",
+              "memberId": "martina",
+              "cumulative": 20
+            },
+            {
+              "date": "2026-05-12",
+              "memberId": "martina",
+              "cumulative": 22
+            },
+            {
+              "date": "2026-05-13",
+              "memberId": "martina",
+              "cumulative": 24
+            },
+            {
+              "date": "2026-05-14",
+              "memberId": "martina",
+              "cumulative": 24
+            },
+            {
+              "date": "2026-05-15",
+              "memberId": "martina",
+              "cumulative": 24
+            },
+            {
+              "date": "2026-05-16",
+              "memberId": "martina",
+              "cumulative": 26
+            },
+            {
+              "date": "2026-05-17",
+              "memberId": "martina",
+              "cumulative": 28
+            },
+            {
+              "date": "2026-05-18",
+              "memberId": "martina",
+              "cumulative": 31
+            },
+            {
+              "date": "2026-05-19",
+              "memberId": "martina",
+              "cumulative": 31
+            },
+            {
+              "date": "2026-05-20",
+              "memberId": "martina",
+              "cumulative": 33
+            },
+            {
+              "date": "2026-05-21",
+              "memberId": "martina",
+              "cumulative": 36
+            },
+            {
+              "date": "2026-05-03",
+              "memberId": "peppino",
+              "cumulative": 4
+            },
+            {
+              "date": "2026-05-04",
+              "memberId": "peppino",
+              "cumulative": 6
+            },
+            {
+              "date": "2026-05-05",
+              "memberId": "peppino",
+              "cumulative": 8
+            },
+            {
+              "date": "2026-05-06",
+              "memberId": "peppino",
+              "cumulative": 10
+            },
+            {
+              "date": "2026-05-07",
+              "memberId": "peppino",
+              "cumulative": 12
+            },
+            {
+              "date": "2026-05-08",
+              "memberId": "peppino",
+              "cumulative": 14
+            },
+            {
+              "date": "2026-05-09",
+              "memberId": "peppino",
+              "cumulative": 16
+            },
+            {
+              "date": "2026-05-10",
+              "memberId": "peppino",
+              "cumulative": 17
+            },
+            {
+              "date": "2026-05-11",
+              "memberId": "peppino",
+              "cumulative": 18
+            },
+            {
+              "date": "2026-05-12",
+              "memberId": "peppino",
+              "cumulative": 21
+            },
+            {
+              "date": "2026-05-13",
+              "memberId": "peppino",
+              "cumulative": 24
+            },
+            {
+              "date": "2026-05-14",
+              "memberId": "peppino",
+              "cumulative": 26
+            },
+            {
+              "date": "2026-05-15",
+              "memberId": "peppino",
+              "cumulative": 26
+            },
+            {
+              "date": "2026-05-16",
+              "memberId": "peppino",
+              "cumulative": 27
+            },
+            {
+              "date": "2026-05-17",
+              "memberId": "peppino",
+              "cumulative": 28
+            },
+            {
+              "date": "2026-05-18",
+              "memberId": "peppino",
+              "cumulative": 30
+            },
+            {
+              "date": "2026-05-19",
+              "memberId": "peppino",
+              "cumulative": 31
+            },
+            {
+              "date": "2026-05-20",
+              "memberId": "peppino",
+              "cumulative": 32
+            },
+            {
+              "date": "2026-05-21",
+              "memberId": "peppino",
+              "cumulative": 33
+            }
+          ]
+        }
+      }
+    },
+    "earlyRecovery": {
+      "memberId": "elena",
+      "rankAtEarly": 6,
+      "rankAtMidpoint": 4,
+      "finalRank": 3,
+      "positionsGainedFromEarly": 3,
+      "earlyPhaseEnd": "2026-05-07",
+      "overtakeStory": {
+        "keyOvertakes": [
+          {
+            "date": "2026-05-14",
+            "passerId": "elena",
+            "passedId": "simone",
+            "passerTotal": 18,
+            "passedTotal": 16
+          },
+          {
+            "date": "2026-05-22",
+            "passerId": "elena",
+            "passedId": "simone",
+            "passerTotal": 24,
+            "passedTotal": 23
+          },
+          {
+            "date": "2026-05-25",
+            "passerId": "elena",
+            "passedId": "david",
+            "passerTotal": 29,
+            "passedTotal": 28
+          }
+        ],
+        "chart": {
+          "from": "2026-05-10",
+          "to": "2026-05-29",
+          "memberIds": [
+            "david",
+            "elena",
+            "simone"
+          ],
+          "points": [
+            {
+              "date": "2026-05-10",
+              "memberId": "david",
+              "cumulative": 13
+            },
+            {
+              "date": "2026-05-11",
+              "memberId": "david",
+              "cumulative": 15
+            },
+            {
+              "date": "2026-05-12",
+              "memberId": "david",
+              "cumulative": 16
+            },
+            {
+              "date": "2026-05-13",
+              "memberId": "david",
+              "cumulative": 18
+            },
+            {
+              "date": "2026-05-14",
+              "memberId": "david",
+              "cumulative": 19
+            },
+            {
+              "date": "2026-05-15",
+              "memberId": "david",
+              "cumulative": 20
+            },
+            {
+              "date": "2026-05-16",
+              "memberId": "david",
+              "cumulative": 21
+            },
+            {
+              "date": "2026-05-17",
+              "memberId": "david",
+              "cumulative": 21
+            },
+            {
+              "date": "2026-05-18",
+              "memberId": "david",
+              "cumulative": 23
+            },
+            {
+              "date": "2026-05-19",
+              "memberId": "david",
+              "cumulative": 23
+            },
+            {
+              "date": "2026-05-20",
+              "memberId": "david",
+              "cumulative": 24
+            },
+            {
+              "date": "2026-05-21",
+              "memberId": "david",
+              "cumulative": 24
+            },
+            {
+              "date": "2026-05-22",
+              "memberId": "david",
+              "cumulative": 26
+            },
+            {
+              "date": "2026-05-23",
+              "memberId": "david",
+              "cumulative": 26
+            },
+            {
+              "date": "2026-05-24",
+              "memberId": "david",
+              "cumulative": 27
+            },
+            {
+              "date": "2026-05-25",
+              "memberId": "david",
+              "cumulative": 28
+            },
+            {
+              "date": "2026-05-26",
+              "memberId": "david",
+              "cumulative": 29
+            },
+            {
+              "date": "2026-05-27",
+              "memberId": "david",
+              "cumulative": 29
+            },
+            {
+              "date": "2026-05-28",
+              "memberId": "david",
+              "cumulative": 31
+            },
+            {
+              "date": "2026-05-29",
+              "memberId": "david",
+              "cumulative": 32
+            },
+            {
+              "date": "2026-05-10",
+              "memberId": "elena",
+              "cumulative": 10
+            },
+            {
+              "date": "2026-05-11",
+              "memberId": "elena",
+              "cumulative": 11
+            },
+            {
+              "date": "2026-05-12",
+              "memberId": "elena",
+              "cumulative": 14
+            },
+            {
+              "date": "2026-05-13",
+              "memberId": "elena",
+              "cumulative": 14
+            },
+            {
+              "date": "2026-05-14",
+              "memberId": "elena",
+              "cumulative": 18
+            },
+            {
+              "date": "2026-05-15",
+              "memberId": "elena",
+              "cumulative": 19
+            },
+            {
+              "date": "2026-05-16",
+              "memberId": "elena",
+              "cumulative": 19
+            },
+            {
+              "date": "2026-05-17",
+              "memberId": "elena",
+              "cumulative": 20
+            },
+            {
+              "date": "2026-05-18",
+              "memberId": "elena",
+              "cumulative": 20
+            },
+            {
+              "date": "2026-05-19",
+              "memberId": "elena",
+              "cumulative": 21
+            },
+            {
+              "date": "2026-05-20",
+              "memberId": "elena",
+              "cumulative": 21
+            },
+            {
+              "date": "2026-05-21",
+              "memberId": "elena",
+              "cumulative": 23
+            },
+            {
+              "date": "2026-05-22",
+              "memberId": "elena",
+              "cumulative": 24
+            },
+            {
+              "date": "2026-05-23",
+              "memberId": "elena",
+              "cumulative": 26
+            },
+            {
+              "date": "2026-05-24",
+              "memberId": "elena",
+              "cumulative": 27
+            },
+            {
+              "date": "2026-05-25",
+              "memberId": "elena",
+              "cumulative": 29
+            },
+            {
+              "date": "2026-05-26",
+              "memberId": "elena",
+              "cumulative": 30
+            },
+            {
+              "date": "2026-05-27",
+              "memberId": "elena",
+              "cumulative": 31
+            },
+            {
+              "date": "2026-05-28",
+              "memberId": "elena",
+              "cumulative": 31
+            },
+            {
+              "date": "2026-05-29",
+              "memberId": "elena",
+              "cumulative": 34
+            },
+            {
+              "date": "2026-05-10",
+              "memberId": "simone",
+              "cumulative": 12
+            },
+            {
+              "date": "2026-05-11",
+              "memberId": "simone",
+              "cumulative": 13
+            },
+            {
+              "date": "2026-05-12",
+              "memberId": "simone",
+              "cumulative": 14
+            },
+            {
+              "date": "2026-05-13",
+              "memberId": "simone",
+              "cumulative": 15
+            },
+            {
+              "date": "2026-05-14",
+              "memberId": "simone",
+              "cumulative": 16
+            },
+            {
+              "date": "2026-05-15",
+              "memberId": "simone",
+              "cumulative": 17
+            },
+            {
+              "date": "2026-05-16",
+              "memberId": "simone",
+              "cumulative": 18
+            },
+            {
+              "date": "2026-05-17",
+              "memberId": "simone",
+              "cumulative": 19
+            },
+            {
+              "date": "2026-05-18",
+              "memberId": "simone",
+              "cumulative": 20
+            },
+            {
+              "date": "2026-05-19",
+              "memberId": "simone",
+              "cumulative": 22
+            },
+            {
+              "date": "2026-05-20",
+              "memberId": "simone",
+              "cumulative": 23
+            },
+            {
+              "date": "2026-05-21",
+              "memberId": "simone",
+              "cumulative": 23
+            },
+            {
+              "date": "2026-05-22",
+              "memberId": "simone",
+              "cumulative": 23
+            },
+            {
+              "date": "2026-05-23",
+              "memberId": "simone",
+              "cumulative": 24
+            },
+            {
+              "date": "2026-05-24",
+              "memberId": "simone",
+              "cumulative": 25
+            },
+            {
+              "date": "2026-05-25",
+              "memberId": "simone",
+              "cumulative": 26
+            },
+            {
+              "date": "2026-05-26",
+              "memberId": "simone",
+              "cumulative": 26
+            },
+            {
+              "date": "2026-05-27",
+              "memberId": "simone",
+              "cumulative": 27
+            },
+            {
+              "date": "2026-05-28",
+              "memberId": "simone",
+              "cumulative": 27
+            },
+            {
+              "date": "2026-05-29",
+              "memberId": "simone",
+              "cumulative": 28
+            }
+          ]
+        }
+      }
+    }
+  },
+  "extras": {
+    "busiestDay": {
+      "date": "2026-05-12",
+      "count": 14
+    },
+    "preferredTimeSlot": {
+      "global": "pomeriggio",
+      "globalCounts": {
+        "pomeriggio": 99,
+        "sera": 79,
+        "mattina": 83,
+        "notte": 6
+      },
+      "byMember": {
+        "mariacristina": "pomeriggio",
+        "peppino": "pomeriggio",
+        "chiara": "mattina",
+        "david": "mattina",
+        "simone": "sera",
+        "elena": "sera",
+        "michela": "mattina",
+        "martina": "pomeriggio"
+      }
+    },
+    "weekendWarrior": {
+      "memberId": "martina",
+      "weekendCount": 18,
+      "weekdayCount": 35,
+      "weekendPercentage": 34.0
+    },
+    "firstOfDay": {
+      "memberId": "chiara",
+      "count": 7
+    },
+    "nightOwl": {
+      "memberId": "peppino",
+      "count": 5
+    },
+    "midpointVsFinal": [
+      {
+        "memberId": "chiara",
+        "rankAtMidpoint": 6,
+        "finalRank": 5,
+        "change": 1
+      },
+      {
+        "memberId": "david",
+        "rankAtMidpoint": 3,
+        "finalRank": 4,
+        "change": -1
+      },
+      {
+        "memberId": "elena",
+        "rankAtMidpoint": 4,
+        "finalRank": 3,
+        "change": 1
+      },
+      {
+        "memberId": "mariacristina",
+        "rankAtMidpoint": 8,
+        "finalRank": 8,
+        "change": 0
+      },
+      {
+        "memberId": "martina",
+        "rankAtMidpoint": 2,
+        "finalRank": 1,
+        "change": 1
+      },
+      {
+        "memberId": "michela",
+        "rankAtMidpoint": 7,
+        "finalRank": 7,
+        "change": 0
+      },
+      {
+        "memberId": "peppino",
+        "rankAtMidpoint": 1,
+        "finalRank": 2,
+        "change": -1
+      },
+      {
+        "memberId": "simone",
+        "rankAtMidpoint": 5,
+        "finalRank": 6,
+        "change": -1
+      }
+    ]
+  }
+}
