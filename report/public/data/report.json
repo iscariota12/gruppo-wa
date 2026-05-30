@@ -5,7 +5,7 @@
     "totalVisits": 267,
     "totalDays": 30,
     "dailyAverage": 8.9,
-    "generatedAt": "2026-05-30T13:07:05.426473"
+    "generatedAt": "2026-05-30T13:58:03.629932"
   },
   "members": [
     {
@@ -113,6 +113,64 @@
       "memberId": "mariacristina",
       "total": 23,
       "percentage": 8.6
+    }
+  ],
+  "dailyAverages": [
+    {
+      "memberId": "martina",
+      "total": 53,
+      "activeDays": 25,
+      "dailyAverage": 1.77,
+      "dailyAverageActiveDays": 2.12
+    },
+    {
+      "memberId": "peppino",
+      "total": 42,
+      "activeDays": 27,
+      "dailyAverage": 1.4,
+      "dailyAverageActiveDays": 1.56
+    },
+    {
+      "memberId": "elena",
+      "total": 34,
+      "activeDays": 21,
+      "dailyAverage": 1.13,
+      "dailyAverageActiveDays": 1.62
+    },
+    {
+      "memberId": "david",
+      "total": 32,
+      "activeDays": 23,
+      "dailyAverage": 1.07,
+      "dailyAverageActiveDays": 1.39
+    },
+    {
+      "memberId": "chiara",
+      "total": 30,
+      "activeDays": 23,
+      "dailyAverage": 1.0,
+      "dailyAverageActiveDays": 1.3
+    },
+    {
+      "memberId": "simone",
+      "total": 28,
+      "activeDays": 25,
+      "dailyAverage": 0.93,
+      "dailyAverageActiveDays": 1.12
+    },
+    {
+      "memberId": "michela",
+      "total": 25,
+      "activeDays": 20,
+      "dailyAverage": 0.83,
+      "dailyAverageActiveDays": 1.25
+    },
+    {
+      "memberId": "mariacristina",
+      "total": 23,
+      "activeDays": 16,
+      "dailyAverage": 0.77,
+      "dailyAverageActiveDays": 1.44
     }
   ],
   "timeline": [

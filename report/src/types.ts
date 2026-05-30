@@ -68,6 +68,14 @@ export interface OvertakeStory {
   };
 }
 
+export interface DailyAverageEntry {
+  memberId: string;
+  total: number;
+  activeDays: number;
+  dailyAverage: number;
+  dailyAverageActiveDays: number;
+}
+
 export interface ReportData {
   meta: {
     periodStart: string;
@@ -79,6 +87,7 @@ export interface ReportData {
   };
   members: Member[];
   ranking: RankingEntry[];
+  dailyAverages: DailyAverageEntry[];
   timeline: TimelinePoint[];
   dailyCounts: DailyCount[];
   highlights: {

@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import { ComebackStories } from './components/ComebackStories';
 import { CumulativeTimeline } from './components/CumulativeTimeline';
+import { DailyAverages } from './components/DailyAverages';
 import { ExtraStats } from './components/ExtraStats';
 import { Header } from './components/Header';
 import { HighlightCards } from './components/HighlightCards';
@@ -62,6 +63,12 @@ function App() {
         </div>
 
         <RankingList rest={rest} members={members} thirdPlaceTotal={thirdPlaceTotal} />
+
+        <DailyAverages
+          averages={data.dailyAverages}
+          members={members}
+          totalDays={data.meta.totalDays}
+        />
 
         <div className="print-page-break">
           <CumulativeTimeline timeline={data.timeline} members={members} />

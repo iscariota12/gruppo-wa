@@ -433,6 +433,29 @@ def compute_extras(
     }
 
 
+def build_daily_averages(
+    visits_by_member: dict[str, list[datetime]], start: date, end: date
+) -> list[dict[str, Any]]:
+    total_days = (end - start).days + 1
+    averages: list[dict[str, Any]] = []
+
+    for member_id, visits in visits_by_member.items():
+        total = len(visits)
+        active_days = len({v.date() for v in visits})
+        averages.append(
+            {
+                "memberId": member_id,
+                "total": total,
+                "activeDays": active_days,
+                "dailyAverage": round(total / total_days, 2),
+                "dailyAverageActiveDays": round(total / active_days, 2) if active_days else 0,
+            }
+        )
+
+    averages.sort(key=lambda x: (-x["dailyAverage"], x["memberId"]))
+    return averages
+
+
 def build_report(
     visits_by_member: dict[str, list[datetime]],
     members_config: dict[str, dict[str, str]],
@@ -480,6 +503,7 @@ def build_report(
         },
         "members": members,
         "ranking": ranking,
+        "dailyAverages": build_daily_averages(visits_by_member, start, end),
         "timeline": build_timeline(visits_by_member, start, end),
         "dailyCounts": build_daily_counts(visits_by_member, start, end),
         "highlights": compute_highlights(visits_by_member, start, end, midpoint),
