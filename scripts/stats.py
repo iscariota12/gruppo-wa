@@ -433,6 +433,29 @@ def compute_extras(
     }
 
 
+def build_rank_timeline(
+    visits_by_member: dict[str, list[datetime]], start: date, end: date
+) -> list[dict[str, Any]]:
+    """Posizione in classifica (cumulativa) per ogni membro e ogni giorno."""
+    timeline: list[dict[str, Any]] = []
+    for day in daterange(start, end):
+        totals = {
+            member_id: sum(1 for v in visits if v.date() <= day)
+            for member_id, visits in visits_by_member.items()
+        }
+        ranks = compute_ranking(totals, sum(totals.values()) or 1)
+        rank_by_member = {entry["memberId"]: entry["rank"] for entry in ranks}
+        for member_id in sorted(visits_by_member.keys()):
+            timeline.append(
+                {
+                    "date": day.isoformat(),
+                    "memberId": member_id,
+                    "rank": rank_by_member[member_id],
+                }
+            )
+    return timeline
+
+
 def build_daily_averages(
     visits_by_member: dict[str, list[datetime]], start: date, end: date
 ) -> list[dict[str, Any]]:
@@ -460,6 +483,7 @@ def build_report(
     visits_by_member: dict[str, list[datetime]],
     members_config: dict[str, dict[str, str]],
     midpoint: date,
+    provisional_ranks: dict[str, int] | None = None,
 ) -> dict[str, Any]:
     all_visits = [v for visits in visits_by_member.values() for v in visits]
     if not all_visits:
@@ -505,6 +529,8 @@ def build_report(
         "ranking": ranking,
         "dailyAverages": build_daily_averages(visits_by_member, start, end),
         "timeline": build_timeline(visits_by_member, start, end),
+        "rankTimeline": build_rank_timeline(visits_by_member, start, end),
+        "provisionalRanks": provisional_ranks or {},
         "dailyCounts": build_daily_counts(visits_by_member, start, end),
         "highlights": compute_highlights(visits_by_member, start, end, midpoint),
         "extras": compute_extras(visits_by_member, start, end, midpoint),

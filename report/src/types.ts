@@ -68,6 +68,12 @@ export interface OvertakeStory {
   };
 }
 
+export interface RankTimelinePoint {
+  date: string;
+  memberId: string;
+  rank: number;
+}
+
 export interface DailyAverageEntry {
   memberId: string;
   total: number;
@@ -89,6 +95,8 @@ export interface ReportData {
   ranking: RankingEntry[];
   dailyAverages: DailyAverageEntry[];
   timeline: TimelinePoint[];
+  rankTimeline: RankTimelinePoint[];
+  provisionalRanks: Record<string, number>;
   dailyCounts: DailyCount[];
   highlights: {
     singleDayRecord: { memberId: string; date: string; count: number };

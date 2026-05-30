@@ -105,7 +105,9 @@ def main() -> None:
         sys.exit(1)
 
     visits = parse_chat(chat_path, config)
-    report = build_report(visits, config["members"], midpoint)
+    report = build_report(
+        visits, config["members"], midpoint, config.get("provisionalRanks")
+    )
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as f:

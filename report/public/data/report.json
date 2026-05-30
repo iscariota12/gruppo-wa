@@ -5,7 +5,7 @@
     "totalVisits": 267,
     "totalDays": 30,
     "dailyAverage": 8.9,
-    "generatedAt": "2026-05-30T13:58:03.629932"
+    "generatedAt": "2026-05-30T14:56:27.555995"
   },
   "members": [
     {
@@ -1375,6 +1375,1218 @@
       "cumulative": 28
     }
   ],
+  "rankTimeline": [
+    {
+      "date": "2026-05-01",
+      "memberId": "chiara",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-01",
+      "memberId": "david",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-01",
+      "memberId": "elena",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-01",
+      "memberId": "mariacristina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-01",
+      "memberId": "martina",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-01",
+      "memberId": "michela",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-01",
+      "memberId": "peppino",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-01",
+      "memberId": "simone",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "chiara",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "david",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "elena",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "mariacristina",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "martina",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "michela",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "peppino",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-02",
+      "memberId": "simone",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "chiara",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "david",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "elena",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "mariacristina",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "martina",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "michela",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "peppino",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-03",
+      "memberId": "simone",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "chiara",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "david",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "elena",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "mariacristina",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "martina",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "michela",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "peppino",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-04",
+      "memberId": "simone",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "chiara",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "david",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "elena",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "mariacristina",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "martina",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "michela",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "peppino",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-05",
+      "memberId": "simone",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "chiara",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "david",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "elena",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "mariacristina",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "michela",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "peppino",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-06",
+      "memberId": "simone",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "chiara",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "david",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "elena",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "mariacristina",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "martina",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "michela",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "peppino",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-07",
+      "memberId": "simone",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "chiara",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "david",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "elena",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "mariacristina",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "martina",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "peppino",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-08",
+      "memberId": "simone",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "chiara",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "david",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "elena",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "mariacristina",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "martina",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "peppino",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-09",
+      "memberId": "simone",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "chiara",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "david",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "elena",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "mariacristina",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "peppino",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-10",
+      "memberId": "simone",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "chiara",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "david",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "elena",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "mariacristina",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "peppino",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-11",
+      "memberId": "simone",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "chiara",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "david",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "elena",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "mariacristina",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "peppino",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-12",
+      "memberId": "simone",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "chiara",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "david",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "elena",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "mariacristina",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "peppino",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-13",
+      "memberId": "simone",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "chiara",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "david",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "elena",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "mariacristina",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "martina",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "peppino",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-14",
+      "memberId": "simone",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "chiara",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "david",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "elena",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "mariacristina",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "martina",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "peppino",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-15",
+      "memberId": "simone",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "chiara",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "david",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "elena",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "mariacristina",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "martina",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "peppino",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-16",
+      "memberId": "simone",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "chiara",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "david",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "elena",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "mariacristina",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "peppino",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-17",
+      "memberId": "simone",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "chiara",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "david",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "elena",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "mariacristina",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "peppino",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-18",
+      "memberId": "simone",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "chiara",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "david",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "elena",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "mariacristina",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "peppino",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-19",
+      "memberId": "simone",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "chiara",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "david",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "elena",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "mariacristina",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "peppino",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-20",
+      "memberId": "simone",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "chiara",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "david",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "elena",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "mariacristina",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "peppino",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-21",
+      "memberId": "simone",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "chiara",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "david",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "elena",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "mariacristina",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "peppino",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-22",
+      "memberId": "simone",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "chiara",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "david",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "elena",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "mariacristina",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "peppino",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-23",
+      "memberId": "simone",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "chiara",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "david",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "elena",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "mariacristina",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "peppino",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-24",
+      "memberId": "simone",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "chiara",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "david",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "elena",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "mariacristina",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "peppino",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-25",
+      "memberId": "simone",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "chiara",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "david",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "elena",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "mariacristina",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "peppino",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-26",
+      "memberId": "simone",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "chiara",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "david",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "elena",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "mariacristina",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "peppino",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-27",
+      "memberId": "simone",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "chiara",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "david",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "elena",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "mariacristina",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "peppino",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-28",
+      "memberId": "simone",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "chiara",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "david",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "elena",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "mariacristina",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "peppino",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-29",
+      "memberId": "simone",
+      "rank": 6
+    },
+    {
+      "date": "2026-05-30",
+      "memberId": "chiara",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-30",
+      "memberId": "david",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-30",
+      "memberId": "elena",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-30",
+      "memberId": "mariacristina",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-30",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-30",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-30",
+      "memberId": "peppino",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-30",
+      "memberId": "simone",
+      "rank": 6
+    }
+  ],
+  "provisionalRanks": {
+    "peppino": 1,
+    "simone": 2,
+    "mariacristina": 3,
+    "david": 4,
+    "chiara": 5,
+    "martina": 6,
+    "michela": 7,
+    "elena": 8
+  },
   "dailyCounts": [
     {
       "date": "2026-05-01",

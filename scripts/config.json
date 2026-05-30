@@ -22,5 +22,15 @@
   },
   "chatFile": "Chat WhatsApp con 💩 gruppo.txt",
   "outputFile": "report/public/data/report.json",
-  "midpointDate": "2026-05-15"
+  "midpointDate": "2026-05-15",
+  "provisionalRanks": {
+    "peppino": 1,
+    "simone": 2,
+    "mariacristina": 3,
+    "david": 4,
+    "chiara": 5,
+    "martina": 6,
+    "michela": 7,
+    "elena": 8
+  }
 }

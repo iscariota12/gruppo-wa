@@ -6,6 +6,7 @@ import { ExtraStats } from './components/ExtraStats';
 import { Header } from './components/Header';
 import { HighlightCards } from './components/HighlightCards';
 import { Podium } from './components/Podium';
+import { BumpChart } from './components/BumpChart';
 import { RankingList } from './components/RankingList';
 import { SharePieChart } from './components/SharePieChart';
 import type { MemberMap, ReportData } from './types';
@@ -70,8 +71,14 @@ function App() {
           totalDays={data.meta.totalDays}
         />
 
-        <div className="print-page-break">
+        <div className="print-page-break space-y-8">
           <CumulativeTimeline timeline={data.timeline} members={members} />
+          <BumpChart
+            rankTimeline={data.rankTimeline}
+            members={members}
+            memberCount={data.members.length}
+            provisionalRanks={data.provisionalRanks}
+          />
         </div>
 
         <HighlightCards highlights={data.highlights} members={members} />
