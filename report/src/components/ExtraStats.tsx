@@ -82,7 +82,7 @@ export function ExtraStats({ extras, members }: ExtraStatsProps) {
           )}
         </ExtraCard>
 
-        <ExtraCard title="Notturno" icon="🦉">
+        <ExtraCard title="Notturno (Batman)" icon="🦇">
           {nightMember && (
             <div className="flex items-center gap-3">
               <MemberAvatar member={nightMember} size="md" />

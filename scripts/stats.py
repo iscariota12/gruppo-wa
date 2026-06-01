@@ -433,6 +433,113 @@ def compute_extras(
     }
 
 
+def minutes_from_midnight(dt: datetime) -> int:
+    return dt.hour * 60 + dt.minute
+
+
+def format_time_hhmm(minutes: int) -> str:
+    minutes = minutes % (24 * 60)
+    return f"{minutes // 60:02d}:{minutes % 60:02d}"
+
+
+def compute_member_profiles(
+    visits_by_member: dict[str, list[datetime]],
+    start: date,
+    end: date,
+    members_config: dict[str, dict[str, str]],
+) -> list[dict[str, Any]]:
+    total_days = (end - start).days + 1
+    rank_final = rank_at_date(visits_by_member, end)
+
+    all_visits: list[tuple[datetime, str]] = []
+    for member_id, visits in visits_by_member.items():
+        for visit in visits:
+            all_visits.append((visit, member_id))
+    all_visits.sort(key=lambda x: x[0])
+
+    first_of_day: dict[str, int] = defaultdict(int)
+    by_day: dict[date, list[tuple[datetime, str]]] = defaultdict(list)
+    for visit, member_id in all_visits:
+        by_day[visit.date()].append((visit, member_id))
+    for day_visits in by_day.values():
+        day_visits.sort(key=lambda x: x[0])
+        first_of_day[day_visits[0][1]] += 1
+
+    profiles: list[dict[str, Any]] = []
+
+    for member_id in members_config:
+        visits = sorted(visits_by_member.get(member_id, []))
+        active_days_set = {v.date() for v in visits}
+        total = len(visits)
+        active_days = len(active_days_set)
+
+        slots: dict[str, int] = defaultdict(int)
+        night_count = 0
+        weekend_count = 0
+        for visit in visits:
+            slots[time_slot(visit.hour)] += 1
+            if visit.hour >= 22 or visit.hour < 6:
+                night_count += 1
+            if visit.weekday() >= 5:
+                weekend_count += 1
+
+        preferred_slot = max(slots.items(), key=lambda x: x[1])[0] if slots else "mattina"
+
+        visit_streak = longest_streak(active_days_set, start, end, active=True)
+        dry_streak = longest_streak(active_days_set, start, end, active=False)
+
+        first_times: list[int] = []
+        daily_counts: dict[date, int] = defaultdict(int)
+        for visit in visits:
+            daily_counts[visit.date()] += 1
+        for day in active_days_set:
+            day_visits = [v for v in visits if v.date() == day]
+            first_times.append(min(minutes_from_midnight(v) for v in day_visits))
+
+        avg_first_minutes = (
+            round(sum(first_times) / len(first_times)) if first_times else None
+        )
+
+        intensest_day = {"date": "", "count": 0}
+        for day, count in daily_counts.items():
+            if count > intensest_day["count"]:
+                intensest_day = {"date": day.isoformat(), "count": count}
+
+        max_gap_hours = 0.0
+        if len(visits) >= 2:
+            gaps = [
+                (visits[i] - visits[i - 1]).total_seconds() / 3600
+                for i in range(1, len(visits))
+            ]
+            max_gap_hours = round(max(gaps), 1)
+
+        profiles.append(
+            {
+                "memberId": member_id,
+                "finalRank": rank_final.get(member_id, len(members_config)),
+                "totalVisits": total,
+                "activeDays": active_days,
+                "dailyAverage": round(total / total_days, 2) if total_days else 0,
+                "dailyAverageActiveDays": round(total / active_days, 2) if active_days else 0,
+                "preferredTimeSlot": preferred_slot,
+                "timeSlotCounts": dict(slots),
+                "longestVisitStreak": visit_streak,
+                "longestDryStreak": dry_streak,
+                "avgFirstVisitTime": format_time_hhmm(avg_first_minutes)
+                if avg_first_minutes is not None
+                else None,
+                "intensestDay": intensest_day,
+                "firstOfDayCount": first_of_day.get(member_id, 0),
+                "nightVisitCount": night_count,
+                "weekendPercentage": round((weekend_count / total) * 100, 1) if total else 0,
+                "maxGapHours": max_gap_hours,
+            }
+        )
+
+    profiles.sort(key=lambda p: p["finalRank"])
+    return profiles
+
+
 def build_rank_timeline(
     visits_by_member: dict[str, list[datetime]], start: date, end: date
 ) -> list[dict[str, Any]]:
@@ -534,4 +641,7 @@ def build_report(
         "dailyCounts": build_daily_counts(visits_by_member, start, end),
         "highlights": compute_highlights(visits_by_member, start, end, midpoint),
         "extras": compute_extras(visits_by_member, start, end, midpoint),
+        "memberProfiles": compute_member_profiles(
+            visits_by_member, start, end, members_config
+        ),
     }

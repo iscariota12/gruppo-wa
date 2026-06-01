@@ -82,6 +82,25 @@ export interface DailyAverageEntry {
   dailyAverageActiveDays: number;
 }
 
+export interface MemberProfile {
+  memberId: string;
+  finalRank: number;
+  totalVisits: number;
+  activeDays: number;
+  dailyAverage: number;
+  dailyAverageActiveDays: number;
+  preferredTimeSlot: string;
+  timeSlotCounts: Record<string, number>;
+  longestVisitStreak: StreakHighlight;
+  longestDryStreak: StreakHighlight;
+  avgFirstVisitTime: string | null;
+  intensestDay: { date: string; count: number };
+  firstOfDayCount: number;
+  nightVisitCount: number;
+  weekendPercentage: number;
+  maxGapHours: number;
+}
+
 export interface ReportData {
   meta: {
     periodStart: string;
@@ -127,6 +146,7 @@ export interface ReportData {
       change: number;
     }>;
   };
+  memberProfiles: MemberProfile[];
 }
 
 export type MemberMap = Record<string, Member>;

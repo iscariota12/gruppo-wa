@@ -1,11 +1,11 @@
 {
   "meta": {
     "periodStart": "2026-05-01",
-    "periodEnd": "2026-05-30",
-    "totalVisits": 267,
-    "totalDays": 30,
-    "dailyAverage": 8.9,
-    "generatedAt": "2026-05-30T14:56:27.555995"
+    "periodEnd": "2026-05-31",
+    "totalVisits": 281,
+    "totalDays": 31,
+    "dailyAverage": 9.1,
+    "generatedAt": "2026-06-01T11:08:00.294997"
   },
   "members": [
     {
@@ -13,42 +13,42 @@
       "displayName": "Martina",
       "color": "#E91E63",
       "initials": "MA",
-      "total": 53
+      "total": 54
     },
     {
       "id": "peppino",
       "displayName": "Peppino",
       "color": "#FF5722",
       "initials": "PE",
-      "total": 42
+      "total": 44
     },
     {
       "id": "elena",
       "displayName": "Elena",
       "color": "#00BCD4",
       "initials": "EL",
-      "total": 34
+      "total": 39
     },
     {
       "id": "david",
       "displayName": "David",
       "color": "#2196F3",
       "initials": "DA",
-      "total": 32
+      "total": 34
     },
     {
       "id": "chiara",
       "displayName": "Chiara Venezia",
       "color": "#9C27B0",
       "initials": "CV",
-      "total": 30
+      "total": 31
     },
     {
       "id": "simone",
       "displayName": "Simone",
       "color": "#4CAF50",
       "initials": "SI",
-      "total": 28
+      "total": 30
     },
     {
       "id": "michela",
@@ -62,115 +62,115 @@
       "displayName": "Mariacristina",
       "color": "#795548",
       "initials": "MC",
-      "total": 23
+      "total": 24
     }
   ],
   "ranking": [
     {
       "rank": 1,
       "memberId": "martina",
-      "total": 53,
-      "percentage": 19.9
+      "total": 54,
+      "percentage": 19.2
     },
     {
       "rank": 2,
       "memberId": "peppino",
-      "total": 42,
+      "total": 44,
       "percentage": 15.7
     },
     {
       "rank": 3,
       "memberId": "elena",
-      "total": 34,
-      "percentage": 12.7
+      "total": 39,
+      "percentage": 13.9
     },
     {
       "rank": 4,
       "memberId": "david",
-      "total": 32,
-      "percentage": 12.0
+      "total": 34,
+      "percentage": 12.1
     },
     {
       "rank": 5,
       "memberId": "chiara",
-      "total": 30,
-      "percentage": 11.2
+      "total": 31,
+      "percentage": 11.0
     },
     {
       "rank": 6,
       "memberId": "simone",
-      "total": 28,
-      "percentage": 10.5
+      "total": 30,
+      "percentage": 10.7
     },
     {
       "rank": 7,
       "memberId": "michela",
       "total": 25,
-      "percentage": 9.4
+      "percentage": 8.9
     },
     {
       "rank": 8,
       "memberId": "mariacristina",
-      "total": 23,
-      "percentage": 8.6
+      "total": 24,
+      "percentage": 8.5
     }
   ],
   "dailyAverages": [
     {
       "memberId": "martina",
-      "total": 53,
-      "activeDays": 25,
-      "dailyAverage": 1.77,
-      "dailyAverageActiveDays": 2.12
+      "total": 54,
+      "activeDays": 26,
+      "dailyAverage": 1.74,
+      "dailyAverageActiveDays": 2.08
     },
     {
       "memberId": "peppino",
-      "total": 42,
-      "activeDays": 27,
-      "dailyAverage": 1.4,
-      "dailyAverageActiveDays": 1.56
+      "total": 44,
+      "activeDays": 29,
+      "dailyAverage": 1.42,
+      "dailyAverageActiveDays": 1.52
     },
     {
       "memberId": "elena",
-      "total": 34,
-      "activeDays": 21,
-      "dailyAverage": 1.13,
-      "dailyAverageActiveDays": 1.62
+      "total": 39,
+      "activeDays": 23,
+      "dailyAverage": 1.26,
+      "dailyAverageActiveDays": 1.7
     },
     {
       "memberId": "david",
-      "total": 32,
-      "activeDays": 23,
-      "dailyAverage": 1.07,
-      "dailyAverageActiveDays": 1.39
+      "total": 34,
+      "activeDays": 24,
+      "dailyAverage": 1.1,
+      "dailyAverageActiveDays": 1.42
     },
     {
       "memberId": "chiara",
-      "total": 30,
-      "activeDays": 23,
+      "total": 31,
+      "activeDays": 24,
       "dailyAverage": 1.0,
-      "dailyAverageActiveDays": 1.3
+      "dailyAverageActiveDays": 1.29
     },
     {
       "memberId": "simone",
-      "total": 28,
-      "activeDays": 25,
-      "dailyAverage": 0.93,
-      "dailyAverageActiveDays": 1.12
+      "total": 30,
+      "activeDays": 26,
+      "dailyAverage": 0.97,
+      "dailyAverageActiveDays": 1.15
     },
     {
       "memberId": "michela",
       "total": 25,
       "activeDays": 20,
-      "dailyAverage": 0.83,
+      "dailyAverage": 0.81,
       "dailyAverageActiveDays": 1.25
     },
     {
       "memberId": "mariacristina",
-      "total": 23,
-      "activeDays": 16,
+      "total": 24,
+      "activeDays": 17,
       "dailyAverage": 0.77,
-      "dailyAverageActiveDays": 1.44
+      "dailyAverageActiveDays": 1.41
     }
   ],
   "timeline": [
@@ -322,7 +322,12 @@
     {
       "date": "2026-05-30",
       "memberId": "chiara",
-      "cumulative": 30
+      "cumulative": 31
+    },
+    {
+      "date": "2026-05-31",
+      "memberId": "chiara",
+      "cumulative": 31
     },
     {
       "date": "2026-05-01",
@@ -475,6 +480,11 @@
       "cumulative": 32
     },
     {
+      "date": "2026-05-31",
+      "memberId": "david",
+      "cumulative": 34
+    },
+    {
       "date": "2026-05-01",
       "memberId": "elena",
       "cumulative": 0
@@ -622,7 +632,12 @@
     {
       "date": "2026-05-30",
       "memberId": "elena",
-      "cumulative": 34
+      "cumulative": 36
+    },
+    {
+      "date": "2026-05-31",
+      "memberId": "elena",
+      "cumulative": 39
     },
     {
       "date": "2026-05-01",
@@ -773,6 +788,11 @@
       "date": "2026-05-30",
       "memberId": "mariacristina",
       "cumulative": 23
+    },
+    {
+      "date": "2026-05-31",
+      "memberId": "mariacristina",
+      "cumulative": 24
     },
     {
       "date": "2026-05-01",
@@ -925,6 +945,11 @@
       "cumulative": 53
     },
     {
+      "date": "2026-05-31",
+      "memberId": "martina",
+      "cumulative": 54
+    },
+    {
       "date": "2026-05-01",
       "memberId": "michela",
       "cumulative": 0
@@ -1071,6 +1096,11 @@
     },
     {
       "date": "2026-05-30",
+      "memberId": "michela",
+      "cumulative": 25
+    },
+    {
+      "date": "2026-05-31",
       "memberId": "michela",
       "cumulative": 25
     },
@@ -1222,7 +1252,12 @@
     {
       "date": "2026-05-30",
       "memberId": "peppino",
-      "cumulative": 42
+      "cumulative": 43
+    },
+    {
+      "date": "2026-05-31",
+      "memberId": "peppino",
+      "cumulative": 44
     },
     {
       "date": "2026-05-01",
@@ -1373,6 +1408,11 @@
       "date": "2026-05-30",
       "memberId": "simone",
       "cumulative": 28
+    },
+    {
+      "date": "2026-05-31",
+      "memberId": "simone",
+      "cumulative": 30
     }
   ],
   "rankTimeline": [
@@ -2575,6 +2615,46 @@
       "date": "2026-05-30",
       "memberId": "simone",
       "rank": 6
+    },
+    {
+      "date": "2026-05-31",
+      "memberId": "chiara",
+      "rank": 5
+    },
+    {
+      "date": "2026-05-31",
+      "memberId": "david",
+      "rank": 4
+    },
+    {
+      "date": "2026-05-31",
+      "memberId": "elena",
+      "rank": 3
+    },
+    {
+      "date": "2026-05-31",
+      "memberId": "mariacristina",
+      "rank": 8
+    },
+    {
+      "date": "2026-05-31",
+      "memberId": "martina",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-31",
+      "memberId": "michela",
+      "rank": 7
+    },
+    {
+      "date": "2026-05-31",
+      "memberId": "peppino",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-31",
+      "memberId": "simone",
+      "rank": 6
     }
   ],
   "provisionalRanks": {
@@ -2669,6 +2749,11 @@
       "count": 1
     },
     {
+      "date": "2026-05-31",
+      "memberId": "mariacristina",
+      "count": 1
+    },
+    {
       "date": "2026-05-01",
       "memberId": "peppino",
       "count": 1
@@ -2804,6 +2889,16 @@
       "count": 1
     },
     {
+      "date": "2026-05-30",
+      "memberId": "peppino",
+      "count": 1
+    },
+    {
+      "date": "2026-05-31",
+      "memberId": "peppino",
+      "count": 1
+    },
+    {
       "date": "2026-05-01",
       "memberId": "chiara",
       "count": 1
@@ -2915,6 +3010,11 @@
     },
     {
       "date": "2026-05-28",
+      "memberId": "chiara",
+      "count": 1
+    },
+    {
+      "date": "2026-05-30",
       "memberId": "chiara",
       "count": 1
     },
@@ -3032,6 +3132,11 @@
       "date": "2026-05-29",
       "memberId": "david",
       "count": 1
+    },
+    {
+      "date": "2026-05-31",
+      "memberId": "david",
+      "count": 2
     },
     {
       "date": "2026-05-01",
@@ -3157,6 +3262,11 @@
       "date": "2026-05-29",
       "memberId": "simone",
       "count": 1
+    },
+    {
+      "date": "2026-05-31",
+      "memberId": "simone",
+      "count": 2
     },
     {
       "date": "2026-05-02",
@@ -3260,6 +3370,16 @@
     },
     {
       "date": "2026-05-29",
+      "memberId": "elena",
+      "count": 3
+    },
+    {
+      "date": "2026-05-30",
+      "memberId": "elena",
+      "count": 2
+    },
+    {
+      "date": "2026-05-31",
       "memberId": "elena",
       "count": 3
     },
@@ -3487,6 +3607,11 @@
       "date": "2026-05-30",
       "memberId": "martina",
       "count": 3
+    },
+    {
+      "date": "2026-05-31",
+      "memberId": "martina",
+      "count": 1
     }
   ],
   "highlights": {
@@ -4187,9 +4312,9 @@
     "preferredTimeSlot": {
       "global": "pomeriggio",
       "globalCounts": {
-        "pomeriggio": 99,
-        "sera": 79,
-        "mattina": 83,
+        "pomeriggio": 107,
+        "sera": 82,
+        "mattina": 86,
         "notte": 6
       },
       "byMember": {
@@ -4205,9 +4330,9 @@
     },
     "weekendWarrior": {
       "memberId": "martina",
-      "weekendCount": 18,
+      "weekendCount": 19,
       "weekdayCount": 35,
-      "weekendPercentage": 34.0
+      "weekendPercentage": 35.2
     },
     "firstOfDay": {
       "memberId": "chiara",
@@ -4267,5 +4392,274 @@
         "change": -1
       }
     ]
-  }
+  },
+  "memberProfiles": [
+    {
+      "memberId": "martina",
+      "finalRank": 1,
+      "totalVisits": 54,
+      "activeDays": 26,
+      "dailyAverage": 1.74,
+      "dailyAverageActiveDays": 2.08,
+      "preferredTimeSlot": "pomeriggio",
+      "timeSlotCounts": {
+        "sera": 14,
+        "mattina": 18,
+        "pomeriggio": 21,
+        "notte": 1
+      },
+      "longestVisitStreak": {
+        "days": 12,
+        "from": "2026-05-20",
+        "to": "2026-05-31"
+      },
+      "longestDryStreak": {
+        "days": 2,
+        "from": "2026-05-01",
+        "to": "2026-05-02"
+      },
+      "avgFirstVisitTime": "12:23",
+      "intensestDay": {
+        "date": "2026-05-05",
+        "count": 4
+      },
+      "firstOfDayCount": 5,
+      "nightVisitCount": 3,
+      "weekendPercentage": 35.2,
+      "maxGapHours": 71.1
+    },
+    {
+      "memberId": "peppino",
+      "finalRank": 2,
+      "totalVisits": 44,
+      "activeDays": 29,
+      "dailyAverage": 1.42,
+      "dailyAverageActiveDays": 1.52,
+      "preferredTimeSlot": "pomeriggio",
+      "timeSlotCounts": {
+        "pomeriggio": 20,
+        "mattina": 9,
+        "sera": 11,
+        "notte": 4
+      },
+      "longestVisitStreak": {
+        "days": 14,
+        "from": "2026-05-01",
+        "to": "2026-05-14"
+      },
+      "longestDryStreak": {
+        "days": 1,
+        "from": "2026-05-15",
+        "to": "2026-05-15"
+      },
+      "avgFirstVisitTime": "12:11",
+      "intensestDay": {
+        "date": "2026-05-12",
+        "count": 3
+      },
+      "firstOfDayCount": 4,
+      "nightVisitCount": 5,
+      "weekendPercentage": 27.3,
+      "maxGapHours": 50.2
+    },
+    {
+      "memberId": "elena",
+      "finalRank": 3,
+      "totalVisits": 39,
+      "activeDays": 23,
+      "dailyAverage": 1.26,
+      "dailyAverageActiveDays": 1.7,
+      "preferredTimeSlot": "sera",
+      "timeSlotCounts": {
+        "pomeriggio": 15,
+        "sera": 19,
+        "mattina": 5
+      },
+      "longestVisitStreak": {
+        "days": 7,
+        "from": "2026-05-21",
+        "to": "2026-05-27"
+      },
+      "longestDryStreak": {
+        "days": 1,
+        "from": "2026-05-01",
+        "to": "2026-05-01"
+      },
+      "avgFirstVisitTime": "15:23",
+      "intensestDay": {
+        "date": "2026-05-14",
+        "count": 4
+      },
+      "firstOfDayCount": 0,
+      "nightVisitCount": 5,
+      "weekendPercentage": 33.3,
+      "maxGapHours": 54.5
+    },
+    {
+      "memberId": "david",
+      "finalRank": 4,
+      "totalVisits": 34,
+      "activeDays": 24,
+      "dailyAverage": 1.1,
+      "dailyAverageActiveDays": 1.42,
+      "preferredTimeSlot": "mattina",
+      "timeSlotCounts": {
+        "sera": 11,
+        "mattina": 13,
+        "pomeriggio": 10
+      },
+      "longestVisitStreak": {
+        "days": 8,
+        "from": "2026-05-01",
+        "to": "2026-05-08"
+      },
+      "longestDryStreak": {
+        "days": 1,
+        "from": "2026-05-09",
+        "to": "2026-05-09"
+      },
+      "avgFirstVisitTime": "13:09",
+      "intensestDay": {
+        "date": "2026-05-03",
+        "count": 2
+      },
+      "firstOfDayCount": 5,
+      "nightVisitCount": 1,
+      "weekendPercentage": 23.5,
+      "maxGapHours": 54.7
+    },
+    {
+      "memberId": "chiara",
+      "finalRank": 5,
+      "totalVisits": 31,
+      "activeDays": 24,
+      "dailyAverage": 1.0,
+      "dailyAverageActiveDays": 1.29,
+      "preferredTimeSlot": "mattina",
+      "timeSlotCounts": {
+        "pomeriggio": 14,
+        "mattina": 15,
+        "sera": 2
+      },
+      "longestVisitStreak": {
+        "days": 9,
+        "from": "2026-05-01",
+        "to": "2026-05-09"
+      },
+      "longestDryStreak": {
+        "days": 1,
+        "from": "2026-05-10",
+        "to": "2026-05-10"
+      },
+      "avgFirstVisitTime": "11:49",
+      "intensestDay": {
+        "date": "2026-05-06",
+        "count": 3
+      },
+      "firstOfDayCount": 7,
+      "nightVisitCount": 0,
+      "weekendPercentage": 25.8,
+      "maxGapHours": 56.6
+    },
+    {
+      "memberId": "simone",
+      "finalRank": 6,
+      "totalVisits": 30,
+      "activeDays": 26,
+      "dailyAverage": 0.97,
+      "dailyAverageActiveDays": 1.15,
+      "preferredTimeSlot": "sera",
+      "timeSlotCounts": {
+        "sera": 13,
+        "pomeriggio": 9,
+        "mattina": 8
+      },
+      "longestVisitStreak": {
+        "days": 20,
+        "from": "2026-05-01",
+        "to": "2026-05-20"
+      },
+      "longestDryStreak": {
+        "days": 2,
+        "from": "2026-05-21",
+        "to": "2026-05-22"
+      },
+      "avgFirstVisitTime": "15:05",
+      "intensestDay": {
+        "date": "2026-05-05",
+        "count": 2
+      },
+      "firstOfDayCount": 5,
+      "nightVisitCount": 0,
+      "weekendPercentage": 33.3,
+      "maxGapHours": 65.6
+    },
+    {
+      "memberId": "michela",
+      "finalRank": 7,
+      "totalVisits": 25,
+      "activeDays": 20,
+      "dailyAverage": 0.81,
+      "dailyAverageActiveDays": 1.25,
+      "preferredTimeSlot": "mattina",
+      "timeSlotCounts": {
+        "pomeriggio": 9,
+        "mattina": 11,
+        "sera": 5
+      },
+      "longestVisitStreak": {
+        "days": 8,
+        "from": "2026-05-06",
+        "to": "2026-05-13"
+      },
+      "longestDryStreak": {
+        "days": 2,
+        "from": "2026-05-04",
+        "to": "2026-05-05"
+      },
+      "avgFirstVisitTime": "13:04",
+      "intensestDay": {
+        "date": "2026-05-07",
+        "count": 2
+      },
+      "firstOfDayCount": 2,
+      "nightVisitCount": 0,
+      "weekendPercentage": 28.0,
+      "maxGapHours": 69.9
+    },
+    {
+      "memberId": "mariacristina",
+      "finalRank": 8,
+      "totalVisits": 24,
+      "activeDays": 17,
+      "dailyAverage": 0.77,
+      "dailyAverageActiveDays": 1.41,
+      "preferredTimeSlot": "pomeriggio",
+      "timeSlotCounts": {
+        "pomeriggio": 9,
+        "sera": 7,
+        "mattina": 7,
+        "notte": 1
+      },
+      "longestVisitStreak": {
+        "days": 3,
+        "from": "2026-05-03",
+        "to": "2026-05-05"
+      },
+      "longestDryStreak": {
+        "days": 2,
+        "from": "2026-05-08",
+        "to": "2026-05-09"
+      },
+      "avgFirstVisitTime": "13:58",
+      "intensestDay": {
+        "date": "2026-05-10",
+        "count": 3
+      },
+      "firstOfDayCount": 3,
+      "nightVisitCount": 2,
+      "weekendPercentage": 33.3,
+      "maxGapHours": 71.2
+    }
+  ]
 }

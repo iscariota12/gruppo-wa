@@ -5,6 +5,7 @@ import { DailyAverages } from './components/DailyAverages';
 import { ExtraStats } from './components/ExtraStats';
 import { Header } from './components/Header';
 import { HighlightCards } from './components/HighlightCards';
+import { MemberProfiles } from './components/MemberProfiles';
 import { Podium } from './components/Podium';
 import { BumpChart } from './components/BumpChart';
 import { RankingList } from './components/RankingList';
@@ -90,6 +91,12 @@ function App() {
         />
 
         <ExtraStats extras={data.extras} members={members} />
+
+        <MemberProfiles
+          profiles={data.memberProfiles}
+          members={members}
+          totalDays={data.meta.totalDays}
+        />
 
         <footer className="pb-8 text-center text-xs text-slate-400">
           Report generato il{' '}
